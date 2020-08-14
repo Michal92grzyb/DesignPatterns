@@ -69,5 +69,7 @@ namespace Adapter
 
             Console.ReadLine();
         }
+
+        // used when you want to use existing class or library but it's interface is incompatible with rest of the code (ex. you want to use json, but class uses xml)
     }
 }
