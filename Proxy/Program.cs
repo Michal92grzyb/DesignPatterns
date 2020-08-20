@@ -64,8 +64,6 @@ namespace Proxy
 
             door.Open("$ecr@t"); // Opening lab door
             door.Close(); // Closing lab door
-
-            Console.ReadLine();
         }
     }
 }
