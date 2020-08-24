@@ -54,8 +54,6 @@ namespace Mediator
 
             //April 14, 20:05[John]:Hi there!
             //April 14, 20:05[Jane]:Hey!
-
-            Console.ReadLine();
         }
     }
 }
