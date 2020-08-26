@@ -81,8 +81,6 @@ namespace Memento
             editor.Restore();
 
             Console.Write(editor.Content); // This is the first sentence. This is second
-
-            Console.ReadLine();
         }
     }
 }
