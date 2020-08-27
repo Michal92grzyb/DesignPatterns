@@ -121,8 +121,6 @@ namespace Visitor
 
             dolphin.Accept(speak);  // Tuut tutt tuutt!
             dolphin.Accept(jump);   // Walked on water a little and disappeared
-
-            Console.ReadLine();
         }
     }
 }
